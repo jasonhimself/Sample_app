@@ -1,3 +1,5 @@
+=begin
+
 require 'spec_helper'
 
 describe "articles/show" do
@@ -15,3 +17,5 @@ describe "articles/show" do
     rendered.should match(/MyText/)
   end
 end
+
+=end

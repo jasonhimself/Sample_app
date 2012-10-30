@@ -1,3 +1,5 @@
+=begin
+
 require 'spec_helper'
 
 describe "Articles" do
@@ -9,3 +11,5 @@ describe "Articles" do
     end
   end
 end
+
+=end

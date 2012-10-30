@@ -1,3 +1,5 @@
+=begin
+
 require 'spec_helper'
 
 describe "articles/new" do
@@ -18,3 +20,5 @@ describe "articles/new" do
     end
   end
 end
+
+=end
